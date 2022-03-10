@@ -1,0 +1,15 @@
+#text {
+  text-align: center;
+  font-family: cursive;
+  color: #cccccc;
+}
+ul li {
+  font-family: monospace;
+  list-style: none;
+  float: left;
+  width: 23%;
+  height: 100px;
+  background: white;
+  margin: 1%;
+  text-align: center;
+}
